@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,js,ts,jquery,nodejs,angular,cpp,cs,java,php,py,postgres,html,css,,)](https://skillicons.dev)
 
 
-| Zerknij | 👀 |
+| Take a look | 👀 |
 | ------------- | ------------- |
 | [![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)  | Contact me: k.peplinski06@gmail.com  |
 
