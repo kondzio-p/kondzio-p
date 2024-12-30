@@ -1,5 +1,5 @@
 # Welcome to my profile 👋
-## These are the environments and languages that I had the opportunity to work with:
+## Environments and languages that I had the opportunity to work with:
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,js,ts,jquery,nodejs,angular,cpp,cs,java,php,py,postgres,html,css,,)](https://skillicons.dev)
 
 
